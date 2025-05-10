@@ -22,7 +22,7 @@
     "tailwindcss": "^4"
   },
   "repository": {
-  "type": "git",
-  "url": "https://github.com/fadlisick/paten-next-oss"
+    "type": "git",
+    "url": "https://github.com/fadlisick/paten-next-oss"
   }
 }
