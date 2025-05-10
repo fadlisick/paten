@@ -20,5 +20,9 @@
     "@types/react-dom": "^19",
     "@tailwindcss/postcss": "^4",
     "tailwindcss": "^4"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/fadlisick/paten-next-oss"
   }
 }
