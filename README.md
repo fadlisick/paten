@@ -13,7 +13,7 @@ npm run build
 
 ```bash
 git init
-git remote add origin https://github.com/fadlisick/paten
+git remote add origin https://github.com/fadlisick/paten-next-oss
 git add .
 git commit -m "Initial OSS Next.js commit"
 git push -u origin main
